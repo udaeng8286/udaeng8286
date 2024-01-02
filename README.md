@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Verdana&weight=600&duration=3000&pause=1000&color=CDA6F7&random=false&width=435&lines=Welcome+to+Udaeng's+GitHub!)](https://git.io/typing-svg)
 
+Hi!I am YuJeong who is studying to become a front end developer🤗<br>
+I love watching animations🖼 and working out at the gym!💪<br>
+I want to be a person with a healthy body and mind!Please cheer for my growth🥰<br>
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <p><strong>🔨Skill🔨</strong></p>
@@ -17,9 +20,6 @@
   <p><strong>✏Studying✏</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
-        <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white">
 </div><br>
     <p><strong>🔧Tool🔧</strong></p>
     <div>
